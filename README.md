@@ -1,1 +1,3 @@
 # Image_Slider
+
+Using simple css & JavaScript...
